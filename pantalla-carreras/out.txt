@@ -1,0 +1,8 @@
+
+> backend@1.0.0 dev
+> tsx watch --env-file-if-exists=.env src/index.ts
+
+Inicializando puerto serial en COM5
+Server is running at http://localhost:3000
+Connected to the SQLite database.
+Arduino conectado en COM5
